@@ -1,4 +1,4 @@
-# Virtual Assistant README
+# Virtual Assistant 
 
 ## Introduction
 
@@ -9,8 +9,8 @@ This is a Virtual Assistant built with a Python Flask backend and a frontend usi
 ### Clone the Repository
 
 ```bash
-git clone https:/annaCode/github.com//virtual-assistant.git
-cd virtual-assistant
+git clone https://github.com/jyoti23456/Annay_Assitant.git
+cd annay_assistant
 
 # Create and activate a virtual environment (optional but recommended)
 python3 -m venv venv
